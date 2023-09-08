@@ -1,0 +1,12 @@
+ ¿Es realmente necesario utilizar los ciclos de repetición?
+
+-Si es necesario debido a que siempre se busca tener un codigo
+más limpio y sobre todo que automatice tareas para ahorrar tiempo 
+en nuestros proyectos, ademas nuestros archivos no quedarán tan pesados.
+Estos ciclos facilitan diversas tareas para crear grandes proyectos.
+
+*Aunque se optimizan recursos del sistema, ¿considera que sería más legible continuar escribiendo los
+códigos, repitiendo las instrucciones, y no utilizando estas herramientas del lenguaje?
+
+-No seria legible, seria un codigo largo y feo porque serian muchas
+lineas de codigo que serian dificiles de leer y puede causar confución.
